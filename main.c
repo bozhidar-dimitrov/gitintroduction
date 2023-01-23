@@ -8,6 +8,6 @@ int main(void) {
   printf("We are under windows");
   #endif
 
-  printf("End of program");
+  printf("Ending the program");
   return 0;
 }
