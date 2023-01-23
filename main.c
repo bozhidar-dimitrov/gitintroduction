@@ -7,5 +7,7 @@ int main(void) {
   #elif defined _WIN32
   printf("We are under windows");
   #endif
+
+  printf("End of program");
   return 0;
 }
